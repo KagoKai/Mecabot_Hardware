@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MOTOR_BL_CTRL_POS Pin=KF2-1
+Removed Pin From Net: NetName=MOTOR_BL_CTRL_NEG Pin=KF2-2
+Removed Pin From Net: NetName=MOTOR_FR_CTRL_POS Pin=KF3-1
+Removed Pin From Net: NetName=MOTOR_FR_CTRL_NEG Pin=KF3-2
+Change Component Comment : Designator=C24 Old Comment=C New Comment=0.1uF
+Change Component Designator: OldDesignator=MPU NewDesignator=U1
+Change Component Designator: OldDesignator=OSC NewDesignator=Y1
+Added Pin To Net: NetName=MOTOR_BL_CTRL_NEG Pin=KF2-1
+Added Pin To Net: NetName=MOTOR_BL_CTRL_POS Pin=KF2-2
+Added Pin To Net: NetName=MOTOR_FR_CTRL_NEG Pin=KF3-1
+Added Pin To Net: NetName=MOTOR_FR_CTRL_POS Pin=KF3-2

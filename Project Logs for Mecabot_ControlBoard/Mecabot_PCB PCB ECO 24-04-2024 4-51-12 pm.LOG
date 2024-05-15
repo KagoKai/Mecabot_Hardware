@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=BOOT0_R Pin=JP6-2
+Added Pin To Net: NetName=BOOT0_R Pin=R6-1
+Change Net Name : Old Net Name=NetJP6_5 New Net Name=BOOT1_R

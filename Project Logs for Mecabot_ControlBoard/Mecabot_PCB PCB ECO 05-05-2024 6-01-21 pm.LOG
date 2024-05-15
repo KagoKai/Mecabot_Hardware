@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=JP2 Old Footprint=JP 1x2 DT New Footprint=JP 1x2 DC
+Change Component Footprint: Designator=JP5 Old Footprint=JP 1x4 DT New Footprint=JP 1x4 DC
+Added Component: Designator=USB1(USB A CN DIP)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000941"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "USB A Cái DIP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=USB1-1
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-4
+Added Pin To Net: NetName=GND Pin=USB1-4

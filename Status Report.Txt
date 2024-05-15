@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Mecabot_PCB.GTO]
+   Generated File[Mecabot_PCB.GTP]
+   Generated File[Mecabot_PCB.GTS]
+   Generated File[Mecabot_PCB.GTL]
+   Generated File[Mecabot_PCB.GBL]
+   Generated File[Mecabot_PCB.GBS]
+   Generated File[Mecabot_PCB.GBP]
+   Generated File[Mecabot_PCB.GBO]
+   Generated File[Mecabot_PCB.GM1]
+   Generated File[Mecabot_PCB.GM13]
+   Generated File[Mecabot_PCB.GM15]
+   Generated File[Mecabot_PCB.GKO]
+   Generated File[Mecabot_PCB.GPT]
+   Generated File[Mecabot_PCB.GPB]
+   Generated File[Mecabot_PCB.1]
+   Generated File[Mecabot_PCB.GML]
+   Generated File[Mecabot_PCB.GD1]
+   Generated File[Mecabot_PCB.GG1]
+   Generated File[Mecabot_PCB.GM]
+   Generated File[Mecabot_PCB.EXTREP]
+   Generated File[Mecabot_PCB.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 7:05:32 pm On 05/05/2024

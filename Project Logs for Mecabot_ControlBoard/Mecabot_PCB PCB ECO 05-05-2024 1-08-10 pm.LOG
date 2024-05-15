@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ENCODER_BL_TICK Pin=C4-2
+Removed Pin From Net: NetName=ENCODER_BL_TICK Pin=U1-20
+Change Component Designator: OldDesignator= NewDesignator=U4
+Change Component Designator: OldDesignator=3V3 LED NewDesignator=L4
+Change Component Designator: OldDesignator=5V LED NewDesignator=L3
+Change Component Designator: OldDesignator=ROSSERIAL NewDesignator=JP2
+Change Component Designator: OldDesignator=RST NewDesignator=RST_BTN1
+Change Component Designator: OldDesignator=SWD NewDesignator=JP5
+Added Pin To Net: NetName=MPU_CPOUT Pin=C4-2
+Added Pin To Net: NetName=MPU_CPOUT Pin=U1-20
+Added Net: Name=MPU_CPOUT
